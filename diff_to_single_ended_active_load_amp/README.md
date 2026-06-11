@@ -6,9 +6,9 @@ This project covers the complete design and analysis of a differential-to-single
 
 ## Contents
 
-- `methodology_and_learning.md` - Design approach and what I learned
-- `results.md` - Key findings and performance results
+- `methodology_and_learning.md` - Design approach, methodology, and what I learned
+- `results.pdf` - Simulation results, performance metrics, and findings
 
 ---
 
-*Design documentation will be added here*
+*Design documentation and results files*
